@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-            const phrases = ['Chartered Engineer (India)', 'Master of Technology (Cyber Security)'];
+            const phrases = ['Chartered Engineer (India) | Master of Technology (Cyber Security)'];
             let currentPhraseIndex = 0;
 
             const options = {
